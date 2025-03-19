@@ -1,0 +1,2 @@
+# stronaaa
+stri=onaaa
